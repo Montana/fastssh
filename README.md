@@ -1,4 +1,4 @@
-[![asciicast](https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h.png)](https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h)
+<script type="text/javascript" src="https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h.js" id="asciicast-ar205lqm6pnp4nlta5i84jm6h" async></script>
 
 # fastssh
 
