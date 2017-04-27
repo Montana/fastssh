@@ -1,4 +1,4 @@
-[![asciicast](https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h.png)](https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h)
+[![asciicast](https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h.png alt="Asciicast" width="734"/></a>(https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h)
 
 # fastssh
 
