@@ -1,5 +1,5 @@
 <a href="https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h" target="_blank"><img src="https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h.png" alt="Asciicast" width="734"/></a>
-</p> /></a>
+</p></a>
 
 # fastssh
 
