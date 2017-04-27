@@ -1,4 +1,4 @@
-<a href="https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h" target="_blank"><img src="https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h.png" /></a>
+[![asciicast](https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h.png)](https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h)
 
 # fastssh
 
