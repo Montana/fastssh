@@ -5,7 +5,7 @@
 
 
 You'll want to clone the repo first:
-<pre>git clone http://www.github.com/Montana/fashssh 
+<pre>git clone http://www.github.com/Montana/fashssh</pre>
 
 Essentially this is a script I made, to make it painless to connect to SSH, with this script though,
 make sure you're the only that has access to the computer. This is mainly used for workflow purposes, 
