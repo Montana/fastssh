@@ -1,8 +1,6 @@
 <h1 align="center">fast ssh</h1>
 
-<a href="https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h" target="_blank"><img src="https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h" alt="Asciicast" width="734"/></a>
-</p></a>
-
+[![demo](https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h?autoplay=1)
 
 You'll want to clone the repo first:
 <pre>git clone http://www.github.com/Montana/fastssh</pre>
