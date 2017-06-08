@@ -1,4 +1,4 @@
-[![asciicast](https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h.png)](https://asciinema.org/a/ar205lqm6pnp4nlta5i84jm6h)
+<h1 align="center">fast ssh</h1>
 
 You'll want to clone the repo first:
 <pre>git clone http://www.github.com/Montana/fastssh</pre>
